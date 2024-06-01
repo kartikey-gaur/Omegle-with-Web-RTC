@@ -1,0 +1,4 @@
+1. omegle is a peer to peer(P2P) app.
+2. omegle is easier to build than google meet because there are multiple peer to peer connections in one meet in google meet.
+3. we will use WebRTC to build omegle.
+4. 

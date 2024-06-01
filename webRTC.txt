@@ -1,0 +1,8 @@
+1. webRTC ==> web based real time communication
+2. webRTC is based on UDP ==> packets are lost unlike TCP network protocol
+3. what happens in video calls when packets are lost is that we see a lag there or skip a few frames there.
+4. webRTC was used because: A. browser support(browsers can speak webRTC), b. UDP falls back to TCP
+5. we need to create a connection between browsers via webRTC
+6. webRTC can be used for sending files, offline videos, audio.
+7. Peer to peer means that two machines can directly talk to each other, without the intervention of the server.
+8. P2P gives problems when we scale our app, for eg, when more than 2 people will be present in the meet talking to each other.
